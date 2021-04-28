@@ -98,7 +98,7 @@ a {
 }
 
 /* Special Offer */
-.card {
+/*.card {
   text-align: center;
   width: 50rem;
   border-style: solid;
@@ -107,7 +107,7 @@ a {
   margin-bottom: 10px;
   background-color: #ffbb91;
   color: #065c6f;
-}
+}*/
 
 /* Features Section */
 #features {
